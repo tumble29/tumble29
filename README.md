@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tumble29
 - 👀 I’m interested in games
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on program projects
+- 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me phanthanhphuc259@gmail.com
 
 <!---
